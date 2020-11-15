@@ -1,0 +1,11 @@
+{
+  "name": "Cambly-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/lilvina/Cambly-exercise",
+  "author": "lilvina <davinaleo2007@yahoo.com>",
+  "license": "MIT"
+}
