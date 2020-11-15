@@ -8,4 +8,4 @@ descending order.
 1. Download Atom
 2. Open terminal in Atom
 3. Run 'yarn install' to install modules
-4. Then run 'yarn start' to run it
+4. Then run 'yarn start' to run the code
