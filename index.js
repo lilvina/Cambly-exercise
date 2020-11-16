@@ -1,6 +1,6 @@
 const fs = require("file-system")
 
-fs.readFile('essay.txt', 'utf-8', (error, data) => {
+fs.readFile('paragraph.txt', 'utf-8', (error, data) => {
   if(error) {
     throw error;
   }
